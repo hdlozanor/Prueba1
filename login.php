@@ -83,7 +83,7 @@ verify if the session is already started.*/
 		<div class="mx-auto m-5 position-static">
 			<div class="card">
 				<div class="card-header">
-					<h1 class="card-title">Iniciar Sesión</h1> ó <a href="signup.php">Registrarse</a>
+					<h1 class="card-title">Iniciar Sesión 2</h1> ó <a href="signup.php">Registrarse</a>
 				</div>
 				
 				<form class="card-body p-5" action="login.php" method="POST">
