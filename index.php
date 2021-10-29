@@ -23,7 +23,7 @@ verify if the session is already started.*/
 <div class="container">
 	<div class="row">
 		<div class="mx-auto m-5 p-5 card position-static">	
-				<h1 class="card-title">AGENDA</h1>
+				<h1 class="card-title">AGENDA 2021</h1>
 			<div class="card-body">
 				<p>Incia Sesión o registrate si es tu primera vez.</p>
 				<a href="login.php">Iniciar Sesión</a>
