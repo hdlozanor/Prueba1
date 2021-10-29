@@ -8,9 +8,9 @@
 
 	session_start();
 	$server = 'localhost'; 		/* Tipo de servidor // server type                      */
-	$username = 'root';			/* usuario (hecho usando MAMP)// user (made using MAMP) */
+	$username = $USUARIO_DB;			/* usuario (hecho usando MAMP)// user (made using MAMP) */
 	$password = '';			/* contraseña // password                               */
-	$database = 'agenda';	/* nombre de la base de datos // database's name        */
+	$database = $BASE_DATOS;	/* nombre de la base de datos // database's name        */
 
 	$conn = mysqli_connect(
 		$server,
